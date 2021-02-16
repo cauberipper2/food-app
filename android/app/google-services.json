@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792173964401",
+    "project_id": "foodreviewanddeliveryapp",
+    "storage_bucket": "foodreviewanddeliveryapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792173964401:android:d83135694ac70c00ad7fd0",
+        "android_client_info": {
+          "package_name": "hoaiphong.flutter_appfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792173964401-rpmfi7qdqg2ff9nhalq51c4b5fqdks1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBThpHuPlaqNCP6sSGnbWSb1uCO8Ba1ANk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792173964401-rpmfi7qdqg2ff9nhalq51c4b5fqdks1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
